@@ -2,6 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently enriching my knowlenge in front end programming
 <!--- 💞️ I’m looking to collaborate on ...--->
+- My welcome page is: https://demtr.github.io/hi
 - 📫 You can contact me via e-mail: yappie-me@mail.ru
 
 <!---
